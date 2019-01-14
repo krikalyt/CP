@@ -6,7 +6,7 @@ using namespace std;
 bool stringpattern(std::string abc,std::string mno)
 {
 
-    for (int i = 0; i < abc.size()-2; ++i) {
+    for (int i = 0; i < (abc.size()-mno.size()); ++i) {
         string temp = abc.substr(i,mno.size());
         if(temp==mno)
         {
