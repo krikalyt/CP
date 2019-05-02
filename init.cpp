@@ -7,5 +7,5 @@ typedef long long ll;
 #define print(a) cout << a << endl
 #define FOR(a,b) for(long i=a;i<b;i++)
 #define pb(a) push_back(a)
-#define first key
-#define second value
+#define key first
+#define value second
