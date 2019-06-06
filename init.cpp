@@ -1,11 +1,31 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <set> 
+#include <queue>
+#include <utility>
+#include <string>
+#include <stack>
+#include <list>
+#include <algorithm>
+#include <climits>
+#include <cmath>
+#include <cstdio>
+#include <unordered_map>
+#include <map>
+#include <chrono>
+#include <thread>
 using namespace std;
-typedef long long ll;
-#define fastio ios_base::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL)
+#define prints(x) cout << x << " "
+#define printl(x) cout << x << "\n"
+#define print(x)  cout << x
+#define vinsert push_back
+#define fastio ios_base::sync_with_stdio(false); cin.tie(NULL)
 #define filei freopen("input.txt","r",stdin)
-#define fileo freopen("output.txt","w",stdout)
-#define print(a) cout << a << endl
-#define FOR(a,b) for(long i=a;i<b;i++)
-#define pb(a) push_back(a)
-#define key first
-#define value second
+#define fileo freopen("ouput.txt","w",stdout)
+#define forl(a,b,c) for(int a=b;a<=c;a++)
+typedef long long int ll;
+int main(void)
+{
+    fastio;
+    return 0;
+}
