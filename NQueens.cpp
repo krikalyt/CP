@@ -1,3 +1,5 @@
+/* https://practice.geeksforgeeks.org/problems/n-queen-problem/0 */
+/*krishnayadav9*/
 #include <iostream>
 #include <vector>
 #include <algorithm>
