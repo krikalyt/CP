@@ -1,3 +1,6 @@
+#include <iostream>
+#include <vector>
+#include <algorithm>
 #include <climits>
 #define N 10
 int n;
