@@ -1,28 +1,31 @@
-//        Krishna Kumar Yadav          //
-#include <bits/stdc++.h>
-#define MOD 1000000007
-#define fastIO ios_base::sync_with_stdio(false);cin.tie(NULL)
-#define fileInput freopen("input.txt","r",stdin)
-#define fileOuput freopen("output.txt","w",stdout)
-#define prints(x) cout << x << " "
-#define printl(x) cout << x << "\n"
-#define print(x)  cout << x
-#define FOR(n) for(int i=0;i<n;i++)
-#define inputArr(arr,n) for(int i=0;i<n;i++)cin >> arr[i]
-using namespace std;
-//        Krishna Kumar Yadav          //
-
-int main()
+/*krishnayadav9*/
+#include <iostream>
+#include <climits>
+#include <cmath>
+#include <string>
+#include <vector>
+#include <list>
+#include <utility>
+#include <algorithm>
+#include <stack>
+#include <queue>
+#include <set>
+#include <unordered_set>
+#include <map>
+#include <unordered_map>
+#define max(a,b) a>b?a:b;
+#define min(a,b) a<b?a:b;
+#define mod 1000000007
+main()
 {
-    fastIO;
-    int t;
-    cin >> t;
-    while(t--)
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    /*
+    int test;
+    std::cin >> test;
+    while(test--)
     {
-        int n;
-        cin >> n;
-        int arr[n];
-        inputArr(arr,n);
+        
     }
-    return 0;
+    */
 }
