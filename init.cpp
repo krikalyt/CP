@@ -20,12 +20,11 @@ main()
 {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(NULL);
-    /*
-    int test;
-    std::cin >> test;
-    while(test--)
-    {
+   
+//     int test;
+//     std::cin >> test;
+//     while(test--)
+//     {
         
-    }
-    */
+//     }
 }
