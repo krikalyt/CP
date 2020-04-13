@@ -15,8 +15,9 @@
 #include <unordered_map>
 #define max(a,b) a>b?a:b;
 #define min(a,b) a<b?a:b;
+using namespace std;
 #define mod 1000000007
-main()
+int main()
 {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(NULL);
@@ -27,5 +28,5 @@ main()
     {
 
     }
-    
+    return 0;
 }
