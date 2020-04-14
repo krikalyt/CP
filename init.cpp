@@ -13,8 +13,8 @@
 #include <unordered_set>
 #include <map>
 #include <unordered_map>
-#define max(a,b) a>b?a:b;
-#define min(a,b) a<b?a:b;
+#define max(a,b) a>b?a:b
+#define min(a,b) a<b?a:b
 using namespace std;
 #define mod 1000000007
 int main()
