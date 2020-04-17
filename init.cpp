@@ -17,6 +17,7 @@
 #define min(a,b) a<b?a:b
 using namespace std;
 #define mod 1000000007
+typedef long long int ll;
 int main()
 {
     std::ios_base::sync_with_stdio(false);
