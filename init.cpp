@@ -13,6 +13,7 @@
 #include <unordered_set>
 #include <map>
 #include <unordered_map>
+#include <sstream>
 #define max(a,b) a>b?a:b
 #define min(a,b) a<b?a:b
 using namespace std;
