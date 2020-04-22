@@ -20,8 +20,10 @@ using namespace std;
 typedef long long int ll;
 int main()
 {
-    // freopen("input.txt","r",stdin);
-    // freopen("output.txt","w",stdout);
+    #ifndef ONLINE_JUDGE
+        freopen("input.txt","r",stdin);
+        freopen("output.txt","w",stdout);
+    #endif
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(NULL);
     int test;
